@@ -28,13 +28,31 @@ Untuk update data list TV,refresh secara berkala di menu pengaturan dengan mengk
 #EXTM3U
 
 
-===============TV Nasional Favorite (by: Pdt H Hutauruk)=================
+===============TV Favorite (by: Pdt H Hutauruk)=================
+
+
+#EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Reformed 21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfF0r3U6tSReHnlc5WLJare35vcdemrSO5RQ&s",Reformed 21
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000016/1024.m3u8
+
+#EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Nickelodeon" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nickelodeon-Logo.png",Nickelodeon
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
+
+#EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Galaxy" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",Galaxy
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
+
+#EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Galaxy Premium" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
+
+#EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Celestial Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CELESTIAL-LOGO.jpg/revision/latest?cb=20120620031102",Celestial Movies
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
+
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="TransTV" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="TV Nasional Favorite (by: Pdt H Hutauruk)",TransTV
+#EXTINF:-1 tvg-id="TransTV" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="TV Favorite (by: Pdt H Hutauruk)",TransTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 http://103.179.182.117:6768/hls/43/43.m3u8
@@ -70,14 +88,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/330px-Antv_logo.svg.png" group-title="TV Nasional Favorite (by: Pdt H Hutauruk)",ANTV
+#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/330px-Antv_logo.svg.png" group-title="TV Favorite (by: Pdt H Hutauruk)",ANTV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="RCTI - [Channel 20].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/220px-RCTI_logo_2015.svg.png" group-title="TV Nasional Favorite (by: Pdt H Hutauruk)",RCTI
+#EXTINF:-1 tvg-id="RCTI - [Channel 20].id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/220px-RCTI_logo_2015.svg.png" group-title="TV Favorite (by: Pdt H Hutauruk)",RCTI
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
@@ -87,7 +105,7 @@ https://allcutv.rctiplus.id/rcti2023.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000 http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="MNCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png" group-title="TV Nasional Favorite (by: Pdt H Hutauruk)",MNCTV
+#EXTINF:-1 tvg-id="MNCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1920px-MNCTV_logo_2015.svg.png" group-title="TV Favorite (by: Pdt H Hutauruk)",MNCTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 https://allcutv.rctiplus.id/mnctv2023.m3u8
@@ -99,7 +117,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1920px-GTV_%282017%29.svg.png" group-title="TV Nasional Favorite (by: Pdt H Hutauruk)",Global TV
+#EXTINF:-1 tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1920px-GTV_%282017%29.svg.png" group-title="TV Favorite (by: Pdt H Hutauruk)",Global TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 https://allcutv.rctiplus.id/gtv2023.m3u8
@@ -110,7 +128,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="iNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/1920px-INews.svg.png" group-title="TV Nasional Favorite (by: Pdt H Hutauruk)",iNews
+#EXTINF:-1 tvg-id="iNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/INews.svg/1920px-INews.svg.png" group-title="TV Favorite (by: Pdt H Hutauruk)",iNews
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
@@ -215,7 +233,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wn
 
 
 
-===============Vision+=================
+===============TV Favorite (by: Pdt H Hutauruk)=================
 
 #EXTM3U
 #EXT-X-VERSION:3
@@ -226,34 +244,34 @@ http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wn
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTINF:-1 tvg-id="RCTI+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/220px-RCTI_logo_2015.svg.png" group-title="TV Nasional Favorite (by: Pdt H Hutauruk)",RCTI+ LIVE SPORT
+#EXTINF:-1 tvg-id="RCTI+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/220px-RCTI_logo_2015.svg.png" group-title="TV Favorite (by: Pdt H Hutauruk)",RCTI+ LIVE SPORT
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 https://liveplus.rctiplus.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
 http://103.179.182.117:6768/hls/51/51.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="TV Nasional Favorite (by: Pdt H Hutauruk)",Soccer Channel V+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="TV Favorite (by: Pdt H Hutauruk)",Soccer Channel V+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
-#EXTINF:-1 group-title="TV Nasional Favorite (by: Pdt H Hutauruk)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png", Sportstars 1
+#EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png", Sportstars 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
-#EXTINF:-1 group-title="TV Nasional Favorite (by: Pdt H Hutauruk)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png", Sportstars 2
+#EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png", Sportstars 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="TV Nasional Favorite (by: Pdt H Hutauruk)", Sportstars 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="TV Favorite (by: Pdt H Hutauruk)", Sportstars 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -372,7 +390,22 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
 #EXTINF:-1 group-title="Sports1" tvg-id="Fight Sports" tvg-logo="https://csisports.tv/wp-content/uploads/FightsportsLogoLarge.png",Fight Sports
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
+
+
+==================================================Berita Luar==================================================
+
+#EXTINF:-1 group-title="Berita Luar" tvg-id="BBC News" tvg-logo="https://images.icon-icons.com/70/PNG/512/bbc_news_14062.png",BBC News
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000026/1024.m3u8
+
+#EXTINF:-1 group-title="Berita Luar" tvg-id="Fox News" tvg-logo="https://download.logo.wine/logo/Fox_News/Fox_News-Logo.wine.png",Fox News
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
+
+#EXTINF:-1 group-title="Berita Luar" tvg-id="DW News" tvg-logo="https://static.dw.com/image/73656857_704.jpg",DW News
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
+
+#EXTINF:-1 group-title="Berita Luar" tvg-id="France 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBgRlxY_OPE7qT9My_imBUbGUMYkQNaTbO6w&s",France 24
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000025/1024.m3u8
 
 
 ==================================================Indonesia Backup==================================================
@@ -383,14 +416,12 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-=======================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rFb8pJr/RCTI.png" group-title="Indonesia Backup",RCTI
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
-=======================================
 
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/nbBkVwX/MNC.png" group-title="Indonesia Backup",MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
@@ -398,27 +429,22 @@ https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-=======================================
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xmVzkKw/SCTV.png" group-title="Indonesia Backup",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
-=======================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="Indonesia Backup",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-
-=======================================
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/wr5jRyZ/Moji.png" group-title="Indonesia Backup", MOJI TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
-=======================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png" group-title="Indonesia Backup",Mentari TV (INDIHOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
@@ -429,32 +455,26 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/mentari.m3u8
 
-=======================================
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="Indonesia Backup" tvg-id="ANTV",  ANTV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
  
  
-=======================================
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJ/vtv.png" group-title="Indonesia Backup",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/Viva.m3u8
 
-=======================================
 
 #EXTINF:-1 tvg-id="TransTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/Hr47xyW/transtv.png" group-title="Indonesia Backup",TRANSTV HD
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
-=======================================
 
 #EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/MRWF8K1/trans7.png" group-title="Indonesia Backup",TRANS7 HD
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
-=======================================
 
 #EXTINF:-1 tvg-id="NET" tvg-logo="https://i.ibb.co.com/J72JMfZ/net.png" group-title="Indonesia Backup" , NET TV
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -462,9 +482,6 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/NetTV.m3u8
 http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8|referrer=http://dens.tv
 
-
-
-=======================================
 
 #EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" group-title="Indonesia Backup" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/bQP5St8/metrotv.png", METRO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -477,14 +494,10 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8|referrer=http://dens.tv
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8|eferrer=https://dens.tv/
 
-=======================================
-
 #EXTINF:-1 tvg-id="122" tvg-logo="https://i.ibb.co.com/p2YxB3y/magna.png" group-title="Indonesia Backup", Magna Channel
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Magna_Channel
-
-=======================================
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -494,8 +507,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&amp;userid
 
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="Indonesia Backup" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/nLH6pHr/tvone.png",TV ONE
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-
-=======================================
 
 #EXTINF:-1 group-title="Indonesia Backup" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/WxdZ1KH/inews.png",INEWS HD
 #EXTVLCOPT:http-user-agent=android-R+
@@ -507,40 +518,28 @@ https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 #EXTINF:-1 group-title="Indonesia Backup" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/WxdZ1KH/inews.png",INEWS HD (INDIHOME)
 #https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0&referrer=https://www.indihometv.com
 
-=======================================
-
 #EXTINF:-1 group-title="Indonesia Backup" tvg-id="Sindo News TV HD - [Channel 5].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/9v1hgk1/Sindonews.png",SINDONEWS
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=5&type=drm
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
-=======================================
-
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/sFFZLD7/kompas.png" group-title="Indonesia Backup",KOMPAS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #http://s7.mbahnunungonline.net/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 
-=======================================
-
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="Indonesia Backup",Garuda TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
-
-=======================================
 
 #EXTINF:-1 tvg-id="cnn indonesia" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/DwKWjKs/cnn.png" group-title="Indonesia Backup", CNN INDONESIA
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
 
-=======================================
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6NKJkPK/cnbc.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Indonesia Backup", CNBC INDONESIA
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
-
-=======================================
 
 #EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" group-title="Indonesia Backup" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/HXrk8wY/btv.png", BTV
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -549,19 +548,13 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8|user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0&referrer=https://dens.tv/
 
-=======================================
-
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/8jxKzZn/Rtv.png" group-title="Indonesia Backup", RTV
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-
-=======================================
 
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/NpswrMT/nusantara.png" group-title="Indonesia Backup",NUSANTARA TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/ntv.m3u8
-
-=======================================
 
 #EXTINF:-1 group-title="Indonesia Backup" tvg-id="IDX HD - [Channel 436].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/P4dM5Ms/idx.png", IDX
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
@@ -569,19 +562,16 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=134&type=drm
 https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd|referrer=https://visionplus.id/
 
-=======================================
 
 #EXTINF:-1 group-title="Indonesia Backup" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/RCWmkKc/MGN.png",METRO GLOBAL NETWORK
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
 
-=======================================
 
 #EXTINF:-1 group-title="Indonesia Backup" tvg-id="beritasatu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzQqRTdxUspeh1TYS1S-V4XZO7du68FvrbqjMX2aMd1ZdQSP7h5qxk0c&s=10",BERITASATU
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
-=======================================
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -590,33 +580,30 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/QvPY518/indonesiana.png" group-title="Indonesia Backup",INDONESIANA TV
 https://tvstreamcast.com/indonesiana.m3u8
 
-=======================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0XzMwt4/tvkesehatan.png" group-title="Indonesia Backup",TV KESEHATAN
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 
-=======================================
 
 #EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/LQsZTgm/TVRI-2.png" group-title="Indonesia Backup",TVRI NASIONAL
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8|referrer=https://dens.tv/
 
-=======================================
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/pJSCZrc/TVRI.png" group-title="Indonesia Backup",TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_900000=10002-mp4a_96000_eng=20003.m3u8
 
-=======================================
 
 #EXTINF:-1 tvg-name="ugtv" tvg-logo="https://i.ibb.co.com/1JtQVKc/UGTV.png" group-title="Indonesia Backup", UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
-=======================================
 
 #EXTINF:-1 tvg-name="ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/21/KTV_28UHF.png" group-title="Indonesia Backup", KTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/Ktivi.m
+
+
 
 <=================== TV NASIONAL Low Res =============================>
 
