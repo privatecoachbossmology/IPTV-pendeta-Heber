@@ -27,50 +27,84 @@ Untuk update data list TV,refresh secara berkala di menu pengaturan dengan mengk
 
 #EXTM3U
 
-==========================Youtube Live TV Channels (by: Pdt H Hutauruk)============================
-
-#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="Birder King" tvg-logo="https://yt3.googleusercontent.com/a1QadwYCmlmAT9UHK2-HKCGw7nc6CUVpw1voyRlKnArTa9HiCMjlkbsSeRhDU0v-ap9naWVQaw=s160-c-k-c0x00ffffff-no-rj",Birder King
-https://www.youtube.com/watch?v=tI7ViBF3QbA&feature=youtu.be
-
-#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="Reformed 21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfF0r3U6tSReHnlc5WLJare35vcdemrSO5RQ&s",Reformed 21
-https://youtu.be/Xni-HtTj9-w
-
-#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="The Office US" tvg-logo="https://assets.fontsinuse.com/static/use-media-items/136/135597/upto-700xauto/6051d14e/73244-13.jpeg",The Office US
-https://youtu.be/AJmaVPfyudQ
-
-#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="Love Nature" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj-bfK8bagqKYJ1reAlAy2HZyLZ-m0VnuEOg&s",Love Nature
-https://youtu.be/daqB3i9WYIY
-
-#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="Nat Geo Wild" tvg-logo="https://download.logo.wine/logo/Nat_Geo_Wild/Nat_Geo_Wild-Logo.wine.png",Nat Geo Wild
-https://youtu.be/THooYCltViI
-
-
-#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="LiveNow Fox News" tvg-logo="https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2023/01/0/100/LiveNOW-logo-1280x720.jpg?ve=1&tl=1",LiveNow Fox News
-https://youtu.be/4nMfRpesYfw
-
-#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="Disney Channel Animation" tvg-logo="https://yt3.googleusercontent.com/_WcHGpEZpyOHL0SmNWyFyLe28xbIZ5W0-aOUKwcOTjJDsVThLsFQU2vMRIvZNpqWHganABXR=s900-c-k-c0x00ffffff-no-rj",Disney Channel Animation
-https://youtu.be/JSTdcV2fH8s
 
 
 
-#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="Relaxing Jazz Piano Radio" tvg-logo="https://i.ytimg.com/vi/Dx5qFachd3A/maxresdefault.jpg",Relaxing Jazz Piano Radio
-https://youtu.be/Dx5qFachd3A
 
 
-#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="Regular Show" tvg-logo="https://image.pngaaa.com/938/3876938-middle.png",Regular Show
-https://youtu.be/CwKawR9Se5o
+==========================Education TV============================
+
+#EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-name="" tvg-logo="https://medianet.mv/media/channel/131x0-icon.png" group-title="Education TV",Discovery US
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.Asia.HD.my" tvg-name="" tvg-logo="https://medianet.mv/media/channel/131x0-icon.png" group-title="Education TV",Discovery Asia
+https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
+
+#EXTINF:-1 tvg-id="Animal.Planet.id" tvg-name="" tvg-logo="https://medianet.mv/media/channel/132x0-icon.png" group-title="Education TV",Animal Planet HD
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+
+#EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.HD.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/national-geographic-hd-pl.png" group-title="Education TV",NATIONAL GEOGRAPHIC US
+http://fl31.moveonjoy.com/National_Geographic/index.m3u8
+
+#EXTINF:-1 tvg-id="NAT.GEO.WILD.HD.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/nat-geo-wild-hd-pl.png" group-title="Education TV",NAT GEO WILD US
+http://fl31.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
+#EXTINF:-1 tvg-id="SONY.BBC.EARTH.HD.in" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/sony-bbc-earth-hd-in.png" group-title="Education TV",Sony BBC Earth HD
+https://live-manifest.production-public.tubi.io/live/88810cb1-e91e-4f19-870b-513ffc9a39cb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Curiosity.Stream.za" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/curiosity-vod-us.png" group-title="Education TV",Curiosity Stream Asia
+https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 
 
-#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="Christian Jazz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkkxWU6FiwgWvB-yDGsUYLh74v2Hw5Swurqg&sg",Christian Jazz
-https://youtu.be/XkAJGvxtagA
+#EXTINF:-1 tvg-id="Curiosity.Stream.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-africa/curiosity-channel-afr.png" group-title="Education TV",Curiosity Stream
+https://jmp2.uk/stvp-ATBA3300008ZT
 
 
-#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="Forest Waterfall" tvg-logo="https://media.istockphoto.com/id/2222834525/vector/waterfall-in-tropical-rainforest.jpg?s=612x612&w=0&k=20&c=EtxlyXbGA_4XbSE-k328zBiYHKfWscpoRa1iGLP07rs=",Forest Waterfall
-https://youtu.be/4BrvMGznLTo
+==========================🎬 Film-Film============================
+
+#EXTINF:-1 tvg-id="HBO.-.Pacific.Feed.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="🎬 Film-Film",HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+
+#EXTINF:-1 tvg-name="AXN" group-title="🎬 Film-Film",AXN
+http://185.18.56.26:8888/axn/index.m3u8
+
+#EXTINF:-1 group-title="🎬 Film-Film" tvg-id="Five.Star.Max.HDTV.(5MXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5StarMax
+http://cord-cutter.net:8080/live/95549031/69361122/13381.m3u8
+
+#EXTINF:-1 group-title="🎬 Film-Film" tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://docdog.top/Logotv/countries//cinemax.png",Cinemax (v)
+http://cord-cutter.net:8080/live/95549031/69361122/13380.m3u8
+
+#EXTINF:-1 group-title="🎬 Film-Film" tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",ActionMAX
+http://cord-cutter.net:8080/live/95549031/69361122/21013.m3u8
+
+#EXTINF:-1 group-title="🎬 Film-Film" tvg-id="More.Max.(East).(MOMAX).us" tvg-logo="https://docdog.top/Logotv/countries//cinemaxmoremax.png",More Max
+http://cord-cutter.net:8080/live/95549031/69361122/17776.m3u8
+
+#EXTINF:-1 group-title="🎬 Film-Film" tvg-id="MOVIEMAX.HDTV.(MMXHD).us" tvg-logo="https://docdog.top/Logotv/countries/turkey/movie-smart-fest-tr.png",MOVIEMAX
+http://cord-cutter.net:8080/live/95549031/69361122/13480.m3u8
+
+#EXTINF:-1 group-title="🎬 Film-Film" tvg-id="OuterMax.east.us" tvg-logo="https://docdog.top/Logotv/countries//outermax.png",OuterMax
+http://cord-cutter.net:8080/live/95549031/69361122/21012.m3u8
+
+#EXTINF:-1 group-title="🎬 Film-Film" tvg-id="STARZ.HD.(East).(STZHD).us" tvg-logo="https://docdog.top/Logotv/countries//starz.png",STARZ
+http://cord-cutter.net:8080/live/95549031/69361122/9299.m3u8
+
+#EXTINF:-1 group-title="🎬 Film-Film" tvg-id="STARZ.Cinema.(East).(STZCI).us" tvg-logo="https://docdog.top/Logotv/countries//starzcinema.png",STARZ Cinema
+http://cord-cutter.net:8080/live/95549031/69361122/17775.m3u8
+
+
+#EXTINF:-1 group-title="🎬 Film-Film" tvg-id="STARZ.Edge.HD.(East).(SZEHD).us" tvg-logo="https://docdog.top/Logotv/countries//starzedge.png",STARZ Edge
+http://cord-cutter.net:8080/live/95549031/69361122/16143.m3u8
+
+#EXTINF:-1 group-title="🎬 Film-Film" tvg-id="STARZ.InBlack.(East).(STZ.B).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/starz-in-black-us.png",STARZ In Black
+http://cord-cutter.net:8080/live/95549031/69361122/17779.m3u8
 
 
 ==========================TV Favorite (by: Pdt H Hutauruk)============================
 
+
+#EXTINF:-1 tvg-id="HBO.-.Pacific.Feed.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="TV Favorite (by: Pdt H Hutauruk)",HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
 
 #EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Reformed 21.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfF0r3U6tSReHnlc5WLJare35vcdemrSO5RQ&s",Reformed 21
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000016/1024.m3u8
@@ -78,14 +112,23 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000016/1024.m3u8
 #EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Nickelodeon" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nickelodeon-Logo.png",Nickelodeon
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
 
+#EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Cartoon Network" tvg-logo="https://www.citypng.com/public/uploads/preview/cn-cartoon-network-black-logo-png-image-7358116966105378kmbt8c75i.png",Cartoon Network
+http://fl61.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Cartoon Network" tvg-logo="https://www.citypng.com/public/uploads/preview/cn-cartoon-network-black-logo-png-image-7358116966105378kmbt8c75i.png",Cartoon Network2
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+
+
+#EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Disney Channel" tvg-logo="https://w7.pngwing.com/pngs/248/218/png-transparent-disney-channel-the-walt-disney-company-television-show-disney-junior-disney-channel-games-television-blue-text.png",Disney Channel
+http://fl41.moveonjoy.com/DISNEY/index.m3u8
+
+
+
 #EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Galaxy" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",Galaxy
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
 
 #EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="GALAXY PREMIUM.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
-
-#EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Cartoon Network" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg",Cartoon Network
-https://youtu.be/uZkaJ3e9nfY
 
 #EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Celestial Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CELESTIAL-LOGO.jpg/revision/latest?cb=20120620031102",Celestial Movies
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
@@ -316,6 +359,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wn
 
 <======================================= Sports1 ===================================>
 
+#EXTINF:-1 group-title="Sports1" tvg-id="Golf Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQQENrSv1ELF8ACKVr8Az3lbS2eqewiH4Ug&s",Golf Channel
+https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beIN SPORTS (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports1" tvg-logo="https://www.visionplus.id/images/repository/564/200564-SNAPSHOT-l.png", beIN Sports 1 ID
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -740,40 +785,3 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 
 
-
-
-
-
-==========================================================🎬Movies NoSub==================================================================
-
-
-#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="Five.Star.Max.HDTV.(5MXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5StarMax
-http://cord-cutter.net:8080/live/95549031/69361122/13381.m3u8
-
-#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://docdog.top/Logotv/countries//cinemax.png",Cinemax (v)
-http://cord-cutter.net:8080/live/95549031/69361122/13380.m3u8
-
-#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",ActionMAX
-http://cord-cutter.net:8080/live/95549031/69361122/21013.m3u8
-
-#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="More.Max.(East).(MOMAX).us" tvg-logo="https://docdog.top/Logotv/countries//cinemaxmoremax.png",More Max
-http://cord-cutter.net:8080/live/95549031/69361122/17776.m3u8
-
-#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="MOVIEMAX.HDTV.(MMXHD).us" tvg-logo="https://docdog.top/Logotv/countries/turkey/movie-smart-fest-tr.png",MOVIEMAX
-http://cord-cutter.net:8080/live/95549031/69361122/13480.m3u8
-
-#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="OuterMax.east.us" tvg-logo="https://docdog.top/Logotv/countries//outermax.png",OuterMax
-http://cord-cutter.net:8080/live/95549031/69361122/21012.m3u8
-
-#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="STARZ.HD.(East).(STZHD).us" tvg-logo="https://docdog.top/Logotv/countries//starz.png",STARZ
-http://cord-cutter.net:8080/live/95549031/69361122/9299.m3u8
-
-#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="STARZ.Cinema.(East).(STZCI).us" tvg-logo="https://docdog.top/Logotv/countries//starzcinema.png",STARZ Cinema
-http://cord-cutter.net:8080/live/95549031/69361122/17775.m3u8
-
-
-#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="STARZ.Edge.HD.(East).(SZEHD).us" tvg-logo="https://docdog.top/Logotv/countries//starzedge.png",STARZ Edge
-http://cord-cutter.net:8080/live/95549031/69361122/16143.m3u8
-
-#EXTINF:-1 group-title="🎬Movies NoSub" tvg-id="STARZ.InBlack.(East).(STZ.B).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/starz-in-black-us.png",STARZ In Black
-http://cord-cutter.net:8080/live/95549031/69361122/17779.m3u8
