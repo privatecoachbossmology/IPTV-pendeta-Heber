@@ -27,6 +27,47 @@ Untuk update data list TV,refresh secara berkala di menu pengaturan dengan mengk
 
 #EXTM3U
 
+==========================Youtube Live TV Channels (by: Pdt H Hutauruk)============================
+
+#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="Birder King" tvg-logo="https://yt3.googleusercontent.com/a1QadwYCmlmAT9UHK2-HKCGw7nc6CUVpw1voyRlKnArTa9HiCMjlkbsSeRhDU0v-ap9naWVQaw=s160-c-k-c0x00ffffff-no-rj",Birder King
+https://youtu.be/tI7ViBF3QbA
+
+#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="Reformed 21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfF0r3U6tSReHnlc5WLJare35vcdemrSO5RQ&s",Reformed 21
+https://youtu.be/Xni-HtTj9-w
+
+#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="The Office US" tvg-logo="https://assets.fontsinuse.com/static/use-media-items/136/135597/upto-700xauto/6051d14e/73244-13.jpeg",The Office US
+https://youtu.be/AJmaVPfyudQ
+
+#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="Love Nature" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj-bfK8bagqKYJ1reAlAy2HZyLZ-m0VnuEOg&s",Love Nature
+https://youtu.be/daqB3i9WYIY
+
+#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="Nat Geo Wild" tvg-logo="https://download.logo.wine/logo/Nat_Geo_Wild/Nat_Geo_Wild-Logo.wine.png",Nat Geo Wild
+https://youtu.be/THooYCltViI
+
+
+#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="LiveNow Fox News" tvg-logo="https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2023/01/0/100/LiveNOW-logo-1280x720.jpg?ve=1&tl=1",LiveNow Fox News
+https://youtu.be/4nMfRpesYfw
+
+#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="Disney Channel Animation" tvg-logo="https://yt3.googleusercontent.com/_WcHGpEZpyOHL0SmNWyFyLe28xbIZ5W0-aOUKwcOTjJDsVThLsFQU2vMRIvZNpqWHganABXR=s900-c-k-c0x00ffffff-no-rj",Disney Channel Animation
+https://youtu.be/JSTdcV2fH8s
+
+
+
+#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="Relaxing Jazz Piano Radio" tvg-logo="https://i.ytimg.com/vi/Dx5qFachd3A/maxresdefault.jpg",Relaxing Jazz Piano Radio
+https://youtu.be/Dx5qFachd3A
+
+
+#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="Regular Show" tvg-logo="https://image.pngaaa.com/938/3876938-middle.png",Regular Show
+https://youtu.be/CwKawR9Se5o
+
+
+#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="Christian Jazz" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkkxWU6FiwgWvB-yDGsUYLh74v2Hw5Swurqg&sg",Christian Jazz
+https://youtu.be/XkAJGvxtagA
+
+
+#EXTINF:-1 group-title="Youtube Live TV Channels (by: Pdt H Hutauruk)" tvg-id="Forest Waterfall" tvg-logo="https://media.istockphoto.com/id/2222834525/vector/waterfall-in-tropical-rainforest.jpg?s=612x612&w=0&k=20&c=EtxlyXbGA_4XbSE-k328zBiYHKfWscpoRa1iGLP07rs=",Forest Waterfall
+https://youtu.be/4BrvMGznLTo
+
 
 ==========================TV Favorite (by: Pdt H Hutauruk)============================
 
@@ -43,8 +84,16 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
 #EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="GALAXY PREMIUM.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
 
+#EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Cartoon Network" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg",Cartoon Network
+https://youtu.be/uZkaJ3e9nfY
+
 #EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Celestial Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CELESTIAL-LOGO.jpg/revision/latest?cb=20120620031102",Celestial Movies
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
+
+
+#EXTINF:-1 tvg-id="TVRI" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501756_tvchannels_v1.jpg" group-title="TV Favorite (by: Pdt H Hutauruk)", TVRI
+https://op-group1-swiftservesd-1.dens.tv/s/s11/02.m3u8
+
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -263,6 +312,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wn
 
 
 
+
+
 <======================================= Sports1 ===================================>
 
 
@@ -313,6 +364,9 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 #EXTINF:-1 group-title="Sports1" tvg-id="dubaisports3.ae" tvg-logo="https://urfan.id/logo/dubaisports.png",Dubai Sports 3
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Sports1" tvg-id="Tennis Channel" tvg-logo="https://allvectorlogo.com/img/2016/03/tennis-channel-logo.png",Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist540_p.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
