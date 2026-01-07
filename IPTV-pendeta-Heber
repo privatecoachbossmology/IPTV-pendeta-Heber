@@ -40,7 +40,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
 #EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Galaxy" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",Galaxy
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000117/1024.m3u8
 
-#EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Galaxy Premium" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
+#EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="GALAXY PREMIUM" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
 
 #EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Celestial Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CELESTIAL-LOGO.jpg/revision/latest?cb=20120620031102",Celestial Movies
