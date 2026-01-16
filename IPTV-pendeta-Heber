@@ -32,6 +32,15 @@ Specially curated by Pdt. Heber Hutauruk
 
 
 
+
+
+
+
+==========================Baru TV============================
+
+
+
+
 ==========================Education TV============================
 
 #EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-name="" tvg-logo="https://medianet.mv/media/channel/131x0-icon.png" group-title="Education TV",Discovery US
@@ -61,6 +70,17 @@ https://jmp2.uk/stvp-ATBA3300008ZT
 
 
 ==========================🎬 Film-Film============================
+
+#EXTINF:-1 tvg-name="Pluto TV Spotlight" tvg-logo="https://i.imgur.com/AogTmZc.png" group-title="🎬 Film-Film",Pluto TV Spotlight
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=51&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="🎬 Film-Film",Pluto TV Action
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-name="Paramount Movie Channel" tvg-logo="https://i.imgur.com/CfqRav0.png" group-title="🎬 Film-Film",Paramount Movie Channel
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+
 
 #EXTINF:-1 tvg-id="HBO.-.Pacific.Feed.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="🎬 Film-Film",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
@@ -102,15 +122,20 @@ http://cord-cutter.net:8080/live/95549031/69361122/17779.m3u8
 
 ==========================TV Favorite (by: Pdt H Hutauruk)============================
 
+#EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="comedycentral.de",comedy central D HD
+https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
+#EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Nickelodeon" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nickelodeon-Logo.png",Nickelodeon
+https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
+
+
+#EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="nhkworldjapan.jp",NHK WORLD JAPAN
+https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
 
 #EXTINF:-1 tvg-id="HBO.-.Pacific.Feed.us" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="TV Favorite (by: Pdt H Hutauruk)",HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 
 #EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Reformed 21.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfF0r3U6tSReHnlc5WLJare35vcdemrSO5RQ&s",Reformed 21
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000016/1024.m3u8
-
-#EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Nickelodeon" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nickelodeon-Logo.png",Nickelodeon
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000060/1024.m3u8
 
 #EXTINF:-1 group-title="TV Favorite (by: Pdt H Hutauruk)" tvg-id="Cartoon Network" tvg-logo="https://www.citypng.com/public/uploads/preview/cn-cartoon-network-black-logo-png-image-7358116966105378kmbt8c75i.png",Cartoon Network
 http://fl61.moveonjoy.com/CARTOON_NETWORK/index.m3u8
@@ -355,6 +380,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wn
 
 
 <======================================= Sports1 ===================================>
+#EXTINF:-1 group-title="Sports1" tvg-logo="https://i.ibb.co/MD9vwnv/dubairacing.png",DUBAI RACING 1
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/index.m3u8
+#EXTINF:-1 group-title="Sports1" tvg-logo="https://i.ibb.co/MD9vwnv/dubairacing.png",DUBAI RACING 2
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/index.m3u8
+#EXTINF:-1 group-title="Sports1" tvg-logo="https://i.ibb.co/MD9vwnv/dubairacing.png",DUBAI RACING 3
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/index.m3u8
+
+
 
 #EXTINF:-1 group-title="Sports1" tvg-id="Golf Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQQENrSv1ELF8ACKVr8Az3lbS2eqewiH4Ug&s",Golf Channel
 https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
@@ -474,6 +507,9 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
 
 
 ==================================================Berita Luar==================================================
+#EXTINF:-1 group-title="Berita Luar" tvg-id="bbcnews.uk",BBC NEWS HD 
+https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
+
 
 #EXTINF:-1 group-title="Berita Luar" tvg-id="BBC News" tvg-logo="https://images.icon-icons.com/70/PNG/512/bbc_news_14062.png",BBC News
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000026/1024.m3u8
@@ -484,9 +520,17 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
 #EXTINF:-1 group-title="Berita Luar" tvg-id="DW News" tvg-logo="https://static.dw.com/image/73656857_704.jpg",DW News
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
 
+#EXTINF:-1 group-title="Berita Luar" tvg-id="DW News" tvg-logo="https://static.dw.com/image/73656857_704.jpg",DW News backup
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
 #EXTINF:-1 group-title="Berita Luar" tvg-id="France 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBgRlxY_OPE7qT9My_imBUbGUMYkQNaTbO6w&s",France 24
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000025/1024.m3u8
 
+#EXTINF:-1 tvg-name="Russia Today Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="RT.ru" group-title="Berita Luar",Russia Today Ⓖ
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sky News Weather Ⓖ" tvg-logo="https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg" tvg-id="SkyNewsWeather.uk" group-title="Berita Luar",Sky News Weather Ⓖ
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 
 ==================================================Indonesia HD==================================================
 
